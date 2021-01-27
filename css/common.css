@@ -18,6 +18,7 @@ article {
 
 article div {
     margin-bottom: 15px;
+    max-width: 1200px;
 }
 
 footer {
